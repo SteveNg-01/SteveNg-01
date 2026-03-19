@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm looking to collaborate on<br>I'm looking for help with<br>I'm currently learning
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/steven-nguyen-63a8601b0) 
 
